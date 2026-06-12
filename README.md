@@ -1,4 +1,4 @@
-# Fonte-de-informa-o-e-banco-de-dados
+<img width="1600" height="868" alt="WhatsApp Image 2026-06-11 at 21 01 21" src="https://github.com/user-attachments/assets/2e50b0a4-44b2-4be3-b3f2-938c36804baa" /># Fonte-de-informa-o-e-banco-de-dados
 Disciplina ministrada no 1 semestre 
 ## Apresentação em equipe utilizando software de design gráfico
 [Apresentação.pdf](https://github.com/user-attachments/files/25589986/Apresentacao.pdf)
@@ -24,3 +24,11 @@ Evidência - <img width="1366" height="768" alt="fornecedoresjc" src="https://gi
 ## Utilizando o excel para o tratamento de "DADOS ABERTOS-SP" do segmento da educação, com a fórmula "SOMASES".
 https://docs.google.com/spreadsheets/d/19HB8JEV6hIH7cVFf6rd-9ZEfIw8-Oeon/edit?usp=sharing&ouid=101810325832933042067&rtpof=true&sd=true
 <img width="1919" height="841" alt="Captura de tela 2026-04-10 221041" src="https://github.com/user-attachments/assets/5611617a-da9c-4812-b69b-b7448f769a4b" />
+## Certificado de conclusão curso de Python
+<img width="720" height="1001" alt="image" src="https://github.com/user-attachments/assets/30ef7650-0bca-4a7e-af5b-839629ed5e9d" />
+
+### Atividade da professora adriana, dados de vendas de sorvetes
+<img width="1600" height="868" alt="WhatsApp Image 2026-06-11 at 21 01 21" src="https://github.com/user-attachments/assets/54ac8f15-469a-4970-add1-97d7f57ca649" />
+
+#### Atividade da professora adriana, dashboard sorvete e cerveja, temperatura
+<img width="1600" height="861" alt="image" src="https://github.com/user-attachments/assets/9072e928-5c41-44d7-9b60-d313f1e81d5a" />
