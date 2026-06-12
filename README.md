@@ -1,4 +1,3 @@
-<img width="1600" height="868" alt="WhatsApp Image 2026-06-11 at 21 01 21" src="https://github.com/user-attachments/assets/2e50b0a4-44b2-4be3-b3f2-938c36804baa" /># Fonte-de-informa-o-e-banco-de-dados
 Disciplina ministrada no 1 semestre 
 ## Apresentação em equipe utilizando software de design gráfico
 [Apresentação.pdf](https://github.com/user-attachments/files/25589986/Apresentacao.pdf)
